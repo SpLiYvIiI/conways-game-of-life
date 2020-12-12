@@ -12,5 +12,5 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 ![](https://imgur.com/AycY9g6.gif)
 
 
-P.S I know its spaghetti code, i didn't really put any effort into making this, it was 2 year ago. i just thought game of life was cool so i made it
+P.S I know its spaghetti code, i didn't really put any effort into making this, this was 2 year ago.
 P.P.S don't pay attention to variable names LOL
