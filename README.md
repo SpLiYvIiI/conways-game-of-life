@@ -1,5 +1,5 @@
 # conways-game-of-life 
-game of life simulation using SFML-2.5.1
+Game of life simulation using SFML-2.5.1
 
  ## Instructions : 
 - Press left mouse button to add life
